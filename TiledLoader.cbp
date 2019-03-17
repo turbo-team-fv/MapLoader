@@ -40,6 +40,11 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="cb.bmp" />
+		<Unit filename="lib/TMXParser.h" />
+		<Unit filename="lib/rapidxml/rapidxml.hpp" />
+		<Unit filename="lib/rapidxml/rapidxml_iterators.hpp" />
+		<Unit filename="lib/rapidxml/rapidxml_print.hpp" />
+		<Unit filename="lib/rapidxml/rapidxml_utils.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
