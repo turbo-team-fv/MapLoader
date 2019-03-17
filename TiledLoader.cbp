@@ -39,13 +39,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="cb.bmp" />
-		<Unit filename="lib/TMXParser.h" />
-		<Unit filename="lib/rapidxml/rapidxml.hpp" />
-		<Unit filename="lib/rapidxml/rapidxml_iterators.hpp" />
-		<Unit filename="lib/rapidxml/rapidxml_print.hpp" />
-		<Unit filename="lib/rapidxml/rapidxml_utils.hpp" />
+		<Unit filename="TMXParser.cpp" />
+		<Unit filename="TMXParser.h" />
+		<Unit filename="assets/PaPablo2.tmx" />
 		<Unit filename="main.cpp" />
+		<Unit filename="rapidxml/rapidxml.hpp" />
+		<Unit filename="rapidxml/rapidxml_iterators.hpp" />
+		<Unit filename="rapidxml/rapidxml_print.hpp" />
+		<Unit filename="rapidxml/rapidxml_utils.hpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
